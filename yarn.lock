@@ -15,9 +15,9 @@
   integrity sha512-HyYEUDeIj5rRQU2Hk5HTB2uHsbRQpF70nvMhVzi+VJR0X+xNEhjPui4/kBf3VeH/wqD28PT4sVOm8qqLjBrSZg==
 
 "@microsoft/teams-js@^1.10.0-beta.4":
-  version "1.10.0-beta.4"
-  resolved "https://domoreexp.pkgs.visualstudio.com/_packaging/npm-mirror/npm/registry/@microsoft/teams-js/-/teams-js-1.10.0-beta.4.tgz#c5784a58b7f28d0352400ee72b51f50129e7a5dd"
-  integrity sha1-xXhKWLfyjQNSQA7nK1H1ASnnpd0=
+  version "1.10.0-beta.7"
+  resolved "https://registry.yarnpkg.com/@microsoft/teams-js/-/teams-js-1.10.0-beta.7.tgz#57609f7d0587ab727ed426a4e30fe61dc75e1867"
+  integrity sha512-MzV0qfyEYpGLbk8LvuOXqoO3o0WanZizp7gXNt7M5k9tBKR+ajG9OmdqYwzEl2lMRS2lDiR6epNmdy1pt4xufA==
 
 "@types/eslint-scope@^3.7.0":
   version "3.7.0"
